@@ -5,7 +5,13 @@ The data set contains information about 10,000 movies collected from The Movie D
 
 In this Data Analysis project, Tmdb movie dataset has been analyzed to find out the in-sights with the data. Such that we can extract the meaningful data out of it. The data has been analyzed using Python Programming Language with its different data analysis libraries using Jupyter Notebook Environment.
 
+Data Set : tmdb-movies.csv
+
 Python libraries used : NumPy, Pandas, Matplotlib and Seaborn.
+
+## Aim
+Analyze the data and find out the hidden insights. 
+
 
 ## Conclusion
 After analyzing the whole data set there are many insights that have been drawed out. People getting more and more connected to technology leads to great expansion in this market, as we can analyze the first chart - the profit in this market is exponentially growing. Now moving further to the questions and the results:
