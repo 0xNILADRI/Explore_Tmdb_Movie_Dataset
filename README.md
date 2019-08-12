@@ -57,5 +57,5 @@ After analyzing the whole data set there are many insights that have been drawed
 
 - Most successful actor : Tom Cruise
 
-###### So after carefully analyzing the data for blockbuster movies, we can conclude few factors on which the popularity of a movie depends on. The average time for the movie to be hit should be around 120 mins , average budget should be decided around $60M, the revenues collections could be neighbouring $225M, the recommended genre would be comedy , the prefered director is Steven Spielberg and with the conclusion if one contacts Tom Cruise or Brad Pitt or Tom Hanks it would be hit else if you can get all three of em' that would be triumph !
+#### So after carefully analyzing the data for blockbuster movies, we can conclude few factors on which the popularity of a movie depends on. The average time for the movie to be hit should be around 120 mins , average budget should be decided around $60M, the revenues collections could be neighbouring $225M, the recommended genre would be comedy , the prefered director is Steven Spielberg and with the conclusion if one contacts Tom Cruise or Brad Pitt or Tom Hanks it would be hit else if you can get all three of em' that would be triumph !
 
