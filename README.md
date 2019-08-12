@@ -5,7 +5,7 @@ The data set contains information about 10,000 movies collected from The Movie D
 
 In this Data Analysis project, Tmdb movie dataset has been analyzed to find out the in-sights with the data. Such that we can extract the meaningful data out of it. The data has been analyzed using Python Programming Language with its different data analysis libraries using Jupyter Notebook Environment.
 
-
+![alt text](https://raw.githubusercontent.com/niladrihere/Udacity-Data-Analyst-Project-02---Explore_Tmdb_Movie_Dataset/master/tmdb.jpeg)
 
 #### Python libraries used : 
             1.NumPy 
