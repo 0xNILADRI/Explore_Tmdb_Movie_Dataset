@@ -1,4 +1,4 @@
-# Udacity-Data-Analyst-Project-02---Explore_Tmdb_Movie_Dataset
+# Explore_Tmdb_Movie_Dataset
 
 ## Overview
 
